@@ -4,7 +4,7 @@
 </div align="center">
 <div align="center">
   
-  ## 👨‍💼TecK Stack👨‍💼
+  ## 💻 Tech Stack 💻
   
 </div>
 
