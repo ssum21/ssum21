@@ -140,10 +140,10 @@
 
 <h2 align="left">🌟 Achievements</h2>
 
-- 🏆 **2nd Place** - China Tech Innovation (3D Tumor Microenvironment Study)
+- 🏆 **2nd Place** - China Adolescents Science & Technology Innovation Contest : 3D Tumor Microenvironment Study
 - 🏆 **Special Award** - Korea National Debate Competition 2019 (NEC)
-- 🏆 **1st Prize** - Uni-Dthon 2024 (Foreign Resident Housing Platform)
-- 🏆 **1st Prize** - Kyung Hee x Wanted Prompt-thon
+- 🏆 **1st Prize** - Uni-Dthon 2024 : Hown_Foreign Resident Housing Platform
+- 🏆 **1st Prize** - Kyung Hee Univ. x Wanted Prompt-thon
 - 🏆 **Paper Publication** - O-RAN and ns-O-RAN Analysis (KSC 2024)
 - 🎖 **Open Source Contribution Academy** - O-RAN Completion
 
