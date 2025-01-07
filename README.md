@@ -1,5 +1,12 @@
 <h1 align="left" id="sumin-title">👋 Hello there! I'm SUMIN IM (임수민)</h1>
 <h3 align="left">Aspiring Server & Network Engineer</h3>
+<p align="left">
+
+  <!-- GitHub Stats -->
+  <a href="#sumin-title">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssum21&layout=compact" alt="Sumin's Coding Stats" align="right"  />
+  </a>
+
 
 <p align="left">
   <!-- Page Views -->
@@ -30,13 +37,7 @@
 
 </p>
 
-<p align="left">
-
 </p>
-
-<a href="#sumin-title">
-  <img src="https://raw.githubusercontent.com/ssum21/github-stats-transparent/output/generated/overview.svg" alt="sumin" align="right" />
-</a>
 
 
 - 🌟 &nbsp;Currently studying **Computer Engineering** at **Kyung Hee University**
@@ -141,7 +142,7 @@
 
 - 🏆 **2nd Place** - China Tech Innovation (3D Tumor Microenvironment Study)
 - 🏆 **Special Award** - Korea National Debate Competition 2019 (NEC)
-- 🏆 **1st Prize** - Uni-Dathon (Foreign Resident Housing Platform)
+- 🏆 **1st Prize** - Uni-Dthon 2024 (Foreign Resident Housing Platform)
 - 🏆 **1st Prize** - Kyung Hee x Wanted Prompt-thon
 - 🏆 **Paper Publication** - O-RAN and ns-O-RAN Analysis (KSC 2024)
 - 🎖 **Open Source Contribution Academy** - O-RAN Completion
