@@ -2,11 +2,6 @@
 <h3 align="left">Aspiring Server & Network Engineer</h3>
 <p align="left">
 
-  <!-- GitHub Stats -->
-  <a href="#sumin-title">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssum21&layout=compact" alt="Sumin's Coding Stats" align="right"  />
-  </a>
-
 
 <p align="left">
   <!-- Page Views -->
@@ -33,9 +28,14 @@
   <a href="https://linkedin.com/in/ssum21">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sumin%20IM-red" />
   </a>
-
-
 </p>
+
+  <!-- GitHub Stats -->
+  <a href="#sumin-title">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssum21&layout=compact" alt="Sumin's Coding Stats" align="right"  />
+  </a>
+
+
 
 </p>
 
