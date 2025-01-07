@@ -83,7 +83,41 @@
       <br>Firebase
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#sumin-tech">
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#sumin-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <a href="#sumin-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#sumin-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#sumin-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+  </tr>
 </table>
+
+<br>
 
 <h2 align="left">📊 Coding Activity</h2>
 
@@ -111,12 +145,6 @@
 - 🏆 **1st Prize** - Kyung Hee x Wanted Prompt-thon
 - 🏆 **Paper Publication** - O-RAN and ns-O-RAN Analysis (KSC 2024)
 - 🎖 **Open Source Contribution Academy** - O-RAN Completion
-
-<h2 align="left">🔗 Links</h2>
-
-- 🔗 [GitHub](https://github.com/ssum21)
-- 🔗 [LinkedIn](https://linkedin.com/in/ssum21)
-- 📧 [Email](mailto:ssumuss@khu.ac.kr)
 
 ---
 
