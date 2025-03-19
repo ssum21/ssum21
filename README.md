@@ -19,6 +19,10 @@
     <img alt="GDG on Campus" src="https://img.shields.io/badge/GDG-On%20Campus-yellow?style=flat&logo=google&logoColor=white" />
   </a>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssumssum)](https://solved.ac/ssumssum)
+
+
   <!-- Email -->
   <a href="mailto:ssumuss@khu.ac.kr">
     <img alt="Email" src="https://img.shields.io/badge/Email-ssumuss@khu.ac.kr-orange" />
