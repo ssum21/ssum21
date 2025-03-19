@@ -19,11 +19,10 @@
     <img alt="GDG on Campus" src="https://img.shields.io/badge/GDG-On%20Campus-yellow?style=flat&logo=google&logoColor=white" />
   </a>
 
-  <!-- solved.ac -->
-  <a href="#">
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ssumssum)](https://solved.ac/ssumssum)
-  </a>
+<!-- solved.ac -->
+<a href="https://solved.ac/ssumssum">
+  <img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ssumssum" />
+</a>
 
 
   <!-- Email -->
