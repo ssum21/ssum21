@@ -146,6 +146,7 @@
 - 🏆 **2nd Place** - Kyung Hee Univ Valley Start-Up
 - 🏆 **1st Prize** - Uni-Dthon 2024 : Hown_Foreign Resident Housing Platform
 - 🏆 **1st Prize** - Kyung Hee Univ. x Wanted Prompt-thon
+- 🏆 **Excellence Award** - KHUthon 2025 : AI-powered Pruning System for Smart Agriculture  
 - 🏆 **Paper Publication** - O-RAN and ns-O-RAN Analysis (KSC 2024)
 - 🎖 **Open Source Contribution Academy** - O-RAN Completion
 
