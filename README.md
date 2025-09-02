@@ -42,8 +42,8 @@
 
 
 - 🌟 &nbsp;Currently studying **Computer Engineering** at **Kyung Hee University**
-- 💻 &nbsp;Building expertise in **Server & Network Engineering**
-- 📚 &nbsp;Exploring topics in **Open-Source Contributions** and **Mobile Networks**
+- 💻 &nbsp;Building expertise in **Mobile & AI Engineering**
+- 📚 &nbsp;Exploring topics in **Open-Source Contributions** and **NLP**
 - 📝 &nbsp;Reach me at **ssumuss@khu.ac.kr**
 
 <br>
