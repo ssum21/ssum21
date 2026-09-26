@@ -10,15 +10,28 @@
   <a href="mailto:sumin.im@kaist.ac.kr"><img alt="Email" src="https://img.shields.io/badge/Email-sumin.im%40kaist.ac.kr-2d3439?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-
 - 🎓 &nbsp;M.S. student at **KAIST School of Electrical Engineering**, [Mobile Intelligence & Interaction Lab](https://nmsl.kaist.ac.kr/) (advised by Prof. Sung-Ju Lee)
 - 🔬 &nbsp;Working on **KV-cache eviction** for efficient LLM inference at KAIST MIIL
 - 🧭 &nbsp;Building AI systems that stay useful under real constraints: limited data, privacy, latency, and human context
 - 🌱 &nbsp;B.S. in Computer Engineering, **Kyung Hee University** (GPA 4.27 / 4.5)
 - ✍️ &nbsp;Writing research notes and paper reviews at **[sumin.im/blog](https://www.sumin.im/blog)**
+- 👯 &nbsp;Open to collaborate on **efficient LLM inference**, **on-device AI**, and **Korean LLM evaluation**
+- 💬 &nbsp;Ask me about Hugging Face Transformers (Korean docs), LLM paper reviews, or running AI hackathons
 - 📫 &nbsp;Reach me at **sumin.im@kaist.ac.kr**
 
 <br>
+
+<h2 align="left" id="sumin-blog">✍️ Latest from the Blog</h2>
+
+> Research notes and paper reviews from [sumin.im/blog](https://www.sumin.im/blog), updated daily.
+
+<!-- BLOG-POST-LIST:START -->
+- [논문 읽기가 귀찮은 연구자를 위한 AI 워크플로우 — n8n x Upstage Solar Pro 3로 논문 분석 자동화하기](https://www.sumin.im/blog/upstage-n8n-paperreading-327e642ede9780f9aa79eadfe44235cb)
+- [[Paper Review] A Theoretical Study on Bridging Internal Probability and Self-Consistency for LLM Reasoning](https://www.sumin.im/blog/rpc-bridging-probability-self-consistency-31fe642ede9780d5ba58c67cb3f7b4a9)
+- [[Paper Review] Confidence Improves Self-Consistency in LLMs](https://www.sumin.im/blog/cisc-confidence-self-consistency-31fe642ede9780bab6adc404bef4ac80)
+- [슬롯머신에서 배우는 최적의 선택 : 멀티암드 밴딧 알고리즘](https://www.sumin.im/blog/multi-armed-bandit-31ee642ede9780cab28df626fc5fc515)
+- [[Paper Review] Deep Think with Confidence](https://www.sumin.im/blog/Deep-Think-with-Confidence-31ee642ede978001ad99dd7f8410517e)
+<!-- BLOG-POST-LIST:END -->
 
 <h2 align="left" id="sumin-oss">🤝 Open Source</h2>
 
@@ -26,142 +39,36 @@
 - 🧪 &nbsp;**[Ko-AgentBench](https://github.com/Hugging-Face-KREW/Ko-AgentBench)**: evaluation of Korean LLM agents on tool use and reasoning
 - 📡 &nbsp;**O-RAN Software Community** (Linux Foundation): AI/ML framework contributor through the Open Source Contribution Academy
 
-<h2 align="left" id="sumin-pubs">📄 Publications &amp; Patents</h2>
-
-- **Improving Equity in Public Sports Facility Accessibility Using K-means-based Adaptive Gaussian 2SFCA and Multi-Objective Greedy Optimization**<br>**Sumin Im** · *Korean Society for Geospatial Information Science (KSGIS)*, 2025
-- **O-RAN and ns-O-RAN: A Study on Architecture and Interface Analysis**<br>**Sumin Im** et al. · *Korean Institute of Information Scientists and Engineers (KIISE)*, 2024
-- 🇰🇷 &nbsp;*Patent pending (2026)* · Real-Time QR Code Threat Detection System and Method Using Context-Based On-Device AI
-- 🇰🇷 &nbsp;*Patent pending (2026)* · On-Device AI-Based Voice Impersonation Real-Time Detection System and Method
-
-<h2 align="left" id="sumin-tech">🛠️ Favorite Tech</h2>
-
-> Tools, languages, and other technologies I enjoy working with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
-      </a>
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
-      </a>
-      <br>Hugging Face
-    </td>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-      </a>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" />
-      </a>
-      <br>Swift
-    </td>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
-      </a>
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="#sumin-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="left">📊 GitHub Activity</h2>
-
-> Cards are generated daily by GitHub Actions and stored in this repository.
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssum21/ssum21/main/profile-summary-card-output/github_dark/3-stats.svg" />
-    <img src="https://raw.githubusercontent.com/ssum21/ssum21/main/profile-summary-card-output/github/3-stats.svg" height="165" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssum21/ssum21/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-    <img src="https://raw.githubusercontent.com/ssum21/ssum21/main/profile-summary-card-output/github/2-most-commit-language.svg" height="165" alt="Most commit language" />
-  </picture>
-</p>
-
-<h2 align="left">🌟 Achievements</h2>
+<h2 align="left" id="sumin-selected">🏅 Selected</h2>
 
 - 🏆 **President Award (2nd / 47 teams)** · AI MCP Hackathon Season 2, Ministry of Science and ICT &amp; NIA (2025)
 - 🏆 **Grand Prize (1st / 140)** · UNI-DTHON 2024, National Software University Hackathon
-- 🏆 **Grand Prize (1st / 50)** · Wanted x Kyung Hee Prompt-thon (2024)
-- 🏆 **Grand Prize (1st / 11 teams)** · KHU'DATA DATATHON (2025)
-- 🏆 **Excellence Award (5th / 48 teams)** · KHUTHON 2025, AI-powered pruning system for smart agriculture
-- 🏆 **Excellence Award** · Kyung Hee Univ. Valley Start-Up, LINC 3.0 (2024)
-- 🎖 **Finalist (Top 100 / 3,000)** · AI_TOP_100, Kakao Impact Foundation (2025)
-- 🎖 **Finalist (Top 100)** · AWS x Codetree Programming Contest (2025)
+- 📄 **Improving Equity in Public Sports Facility Accessibility Using K-means-based Adaptive Gaussian 2SFCA and Multi-Objective Greedy Optimization** · **Sumin Im** · *KSGIS 2025*
+- 📄 **O-RAN and ns-O-RAN: A Study on Architecture and Interface Analysis** · **Sumin Im** et al. · *KIISE 2024*
+- 🇰🇷 &nbsp;2 Korean patents pending on on-device AI security (2026)
 
-<details>
-<summary>🎓 Scholarships &amp; earlier awards</summary>
-<br>
+> Full list of awards, scholarships, and publications → **[sumin.im](https://www.sumin.im)**
 
-- 🎓 **National Science &amp; Technology Scholarship** · full tuition (2025 – 2026)
-- 🎓 **Donggyo Human Talent Award** · one of 20 students nationwide (2025)
-- 🎓 **Academic Excellence Scholarship** · Kyung Hee University (Spring 2024, Fall 2024)
-- 🎓 **Korea Land Information Society Scholarship** (2024)
-- 🏆 **2nd Place** · China Adolescents Science &amp; Technology Innovation Contest: 3D Tumor Microenvironment Study
-- 🏆 **Special Award** · Korea National Debate Competition 2019 (NEC)
+<h2 align="left" id="sumin-tech">🛠️ Favorite Tech</h2>
 
-</details>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" height="32" alt="PyTorch" title="PyTorch" />&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" alt="Hugging Face" title="Hugging Face" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32" height="32" alt="TensorFlow" title="TensorFlow" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="32" height="32" alt="Swift" title="Swift" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++" title="C++" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" title="Docker" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="32" height="32" alt="Kubernetes" title="Kubernetes" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32" height="32" alt="FastAPI" title="FastAPI" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="32" height="32" alt="Flutter" title="Flutter" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="32" height="32" alt="Firebase" title="Firebase" />&nbsp;
+</p>
 
-<h2 align="left">🌍 Community</h2>
+<h2 align="left" id="sumin-community">🌍 Community</h2>
 
-- 🚀 **Upstage AI Ambassador** (2026) · **KANANA 429 AI Ambassador**, Kakao (2026)
-- 🧑‍🏫 **AI &amp; math mentor** · KT Digital Volunteer, EBS 1318 On-Coaching, SK Hynix Hinestein
-- 🐧 **External Relations Officer** · KHLUG, Kyung Hee University Linux User Group
+🚀 Upstage AI Ambassador · KANANA 429 AI Ambassador (Kakao) · 🧑‍🏫 AI &amp; math mentor (KT, EBS, SK Hynix) · 🐧 KHLUG External Relations
 
 ---
 

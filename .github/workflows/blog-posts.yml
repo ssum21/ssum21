@@ -1,0 +1,20 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "30 15 * * *" # every day at 00:30 KST
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Update README with the latest blog posts
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.sumin.im/feed"
+          max_post_count: 5
+          commit_message: "docs: update latest blog posts"
