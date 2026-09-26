@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150" role="img" aria-label="BENCHMARK: Ko-AgentBench">
+  <style>
+    .label { font: 600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2.5px; fill: #3a6ea5; }
+    .title { font: 700 20px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .line { font: 400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', Helvetica, Arial, sans-serif; fill: #6e7781; }
+    .link { font: 500 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #6e7781; }
+    .dot { fill: #3a6ea5; }
+  </style>
+  <rect x=".5" y=".5" width="419" height="149" rx="12" fill="#ffffff" stroke="#e3e5e8"/>
+  <circle class="dot" cx="392" cy="30" r="4"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text class="label" x="24" y="34">BENCHMARK</text>
+  <text class="title" x="24" y="64">Ko-AgentBench</text>
+  <text class="line" x="24" y="94">Korean agentic tool-calling benchmark</text><text class="line" x="24" y="114">with Hugging Face KREW</text>
+  <text class="link" x="396" y="134" text-anchor="end">repository →</text>
+</svg>
