@@ -10,32 +10,15 @@
   <a href="mailto:sumin.im@kaist.ac.kr"><img alt="Email" src="https://img.shields.io/badge/Email-sumin.im%40kaist.ac.kr-2d3439?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/ssum21"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=ssum21&style=flat-square&color=2d3439&label=Profile+views" /></a>
-  <a href="https://solved.ac/ssumssum"><img alt="solved.ac" src="https://mazassumnida.wtf/api/mini/generate_badge?boj=ssumssum" height="20" /></a>
-</p>
 
 - 🎓 &nbsp;M.S. student at **KAIST School of Electrical Engineering**, [Mobile Intelligence & Interaction Lab](https://nmsl.kaist.ac.kr/) (advised by Prof. Sung-Ju Lee)
-- 🔬 &nbsp;Researching **LLM efficiency**: KV cache compression, efficient reasoning, and on-device multimodal AI
+- 🔬 &nbsp;Working on **KV-cache eviction** for efficient LLM inference at KAIST MIIL
 - 🧭 &nbsp;Building AI systems that stay useful under real constraints: limited data, privacy, latency, and human context
 - 🌱 &nbsp;B.S. in Computer Engineering, **Kyung Hee University** (GPA 4.27 / 4.5)
 - ✍️ &nbsp;Writing research notes and paper reviews at **[sumin.im/blog](https://www.sumin.im/blog)**
 - 📫 &nbsp;Reach me at **sumin.im@kaist.ac.kr**
 
 <br>
-
-<h2 align="left" id="sumin-research">🔬 Research &amp; Projects</h2>
-
-> What I am working on, and what I have built along the way.
-
-| Period | Project | Where |
-| :-- | :-- | :-- |
-| since&nbsp;2026 | **Evidence-Routed Deep Thinking** · training-free attention routing diagnostics for LLM reasoning | KHU EMIL |
-| since&nbsp;2025 | **Personalized Health-LLM** · test-time in-context learning for wearable health prediction, no fine-tuning | KAIST MIIL |
-| 2025 | **[Ko-AgentBench](https://github.com/Hugging-Face-KREW/Ko-AgentBench)** · Korean agentic tool-calling benchmark for LLMs | Hugging Face KREW |
-| 2025 | **On-device semantic photo search** · MobileCLIP place classification and POI ranking in Swift | LinkedSpaces Inc. |
-| 2025 | **Federated fraud detection** · vertical FL with caching and feature sparsification, 100× lower comm. cost | KHU |
-| 2024 | **AI-based conditional handover in 6G O-RAN** · NS-3 simulation of an AI xApp | KHU Automobile Network Lab |
 
 <h2 align="left" id="sumin-oss">🤝 Open Source</h2>
 
