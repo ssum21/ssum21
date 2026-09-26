@@ -16,9 +16,9 @@ THEMES = {
         "card": "#ffffff",
         "text": "#1f2328",
         "sub": "#2d3439",
-        "muted": "#6e7781",
-        "border": "#e3e5e8",
-        "accent": "#3a6ea5",
+        "muted": "#59636e",
+        "border": "#d8dee4",
+        "accent": "#0A66C2",
         "cell": "#2d3439",
     },
     "dark": {
@@ -26,9 +26,9 @@ THEMES = {
         "card": "#161b22",
         "text": "#e6edf3",
         "sub": "#c9d1d9",
-        "muted": "#8b949e",
+        "muted": "#9da7b3",
         "border": "#30363d",
-        "accent": "#7aa2f7",
+        "accent": "#0A66C2",
         "cell": "#c9d1d9",
     },
 }
@@ -78,17 +78,18 @@ def header(t: dict[str, str]) -> str:
     ]
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="Sumin Im, AI Systems and Research Engineer, M.S. student at KAIST EE">
   <style>
+    text {{ text-rendering: geometricPrecision; }}
     .label {{ font: 600 12px {MONO}; letter-spacing: 3px; fill: {t["muted"]}; }}
     .name {{ font: 700 44px {SANS}; fill: {t["text"]}; }}
     .kr {{ font: 500 20px {SANS}; fill: {t["muted"]}; }}
     .role {{ font: 500 17px {SANS}; fill: {t["sub"]}; }}
     .now {{ font: 600 12px {MONO}; letter-spacing: 2px; fill: {t["accent"]}; }}
     .phrase {{ font: 500 17px {SANS}; fill: {t["text"]}; }}
-    .caption {{ font: 500 11px {MONO}; fill: {t["muted"]}; }}
+    .caption {{ font: 500 12px {MONO}; fill: {t["muted"]}; }}
     .cell {{ fill: {t["cell"]}; }}
-    .scan {{ fill: {t["accent"]}; opacity: .18; }}
+    .scan {{ fill: {t["accent"]}; opacity: .22; }}
   </style>
-  <rect x=".5" y=".5" width="{w - 1}" height="{h - 1}" rx="16" fill="{t["bg"]}" stroke="{t["border"]}"/>
+  <rect x=".5" y=".5" width="{w - 1}" height="{h - 1}" rx="16" fill="{t["bg"]}" stroke="{t["border"]}" vector-effect="non-scaling-stroke"/>
   <text class="label" x="40" y="54">SUMIN.IM</text>
   <text class="name" x="40" y="106">Sumin Im <tspan class="kr" dx="6">임수민</tspan></text>
   <text class="role" x="40" y="138">AI Systems &amp; Research Engineer · M.S. Student, KAIST EE</text>
@@ -117,18 +118,19 @@ def card(t: dict[str, str], label: str, title: str, lines: list[str], link: str)
     """One info card. The README wraps it in a link."""
     w, h = 420, 150
     body = "".join(
-        f'<text class="line" x="24" y="{94 + 20 * i}">{escape(s)}</text>' for i, s in enumerate(lines)
+        f'<text class="line" x="24" y="{95 + 21 * i}">{escape(s)}</text>' for i, s in enumerate(lines)
     )
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{escape(label)}: {escape(title)}">
   <style>
-    .label {{ font: 600 11px {MONO}; letter-spacing: 2.5px; fill: {t["accent"]}; }}
-    .title {{ font: 700 20px {SANS}; fill: {t["text"]}; }}
-    .line {{ font: 400 14px {SANS}; fill: {t["muted"]}; }}
-    .link {{ font: 500 11px {MONO}; fill: {t["muted"]}; }}
+    text {{ text-rendering: geometricPrecision; }}
+    .label {{ font: 700 12px {MONO}; letter-spacing: 2.5px; fill: {t["accent"]}; }}
+    .title {{ font: 700 21px {SANS}; fill: {t["text"]}; }}
+    .line {{ font: 500 15px {SANS}; fill: {t["muted"]}; }}
+    .link {{ font: 600 12px {MONO}; fill: {t["muted"]}; }}
     .dot {{ fill: {t["accent"]}; }}
   </style>
-  <rect x=".5" y=".5" width="{w - 1}" height="{h - 1}" rx="12" fill="{t["card"]}" stroke="{t["border"]}"/>
-  <circle class="dot" cx="{w - 28}" cy="30" r="4"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <rect x=".5" y=".5" width="{w - 1}" height="{h - 1}" rx="12" fill="{t["card"]}" stroke="{t["border"]}" vector-effect="non-scaling-stroke"/>
+  <circle class="dot" cx="{w - 28}" cy="30" r="4.5"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
   <text class="label" x="24" y="34">{escape(label)}</text>
   <text class="title" x="24" y="64">{escape(title)}</text>
   {body}

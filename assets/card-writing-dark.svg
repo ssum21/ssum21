@@ -1,15 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150" role="img" aria-label="WRITING: Research notes">
   <style>
-    .label { font: 600 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2.5px; fill: #7aa2f7; }
-    .title { font: 700 20px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', Helvetica, Arial, sans-serif; fill: #e6edf3; }
-    .line { font: 400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', Helvetica, Arial, sans-serif; fill: #8b949e; }
-    .link { font: 500 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8b949e; }
-    .dot { fill: #7aa2f7; }
+    text { text-rendering: geometricPrecision; }
+    .label { font: 700 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2.5px; fill: #0A66C2; }
+    .title { font: 700 21px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', Helvetica, Arial, sans-serif; fill: #e6edf3; }
+    .line { font: 500 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', Helvetica, Arial, sans-serif; fill: #9da7b3; }
+    .link { font: 600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #9da7b3; }
+    .dot { fill: #0A66C2; }
   </style>
-  <rect x=".5" y=".5" width="419" height="149" rx="12" fill="#161b22" stroke="#30363d"/>
-  <circle class="dot" cx="392" cy="30" r="4"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <rect x=".5" y=".5" width="419" height="149" rx="12" fill="#161b22" stroke="#30363d" vector-effect="non-scaling-stroke"/>
+  <circle class="dot" cx="392" cy="30" r="4.5"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
   <text class="label" x="24" y="34">WRITING</text>
   <text class="title" x="24" y="64">Research notes</text>
-  <text class="line" x="24" y="94">Paper reviews on KV cache, test-time</text><text class="line" x="24" y="114">scaling, and LLM reasoning</text>
+  <text class="line" x="24" y="95">Paper reviews on KV cache, test-time</text><text class="line" x="24" y="116">scaling, and LLM reasoning</text>
   <text class="link" x="396" y="134" text-anchor="end">sumin.im/blog →</text>
 </svg>
