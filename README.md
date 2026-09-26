@@ -19,18 +19,6 @@
 
 <br>
 
-<h2 align="left" id="sumin-blog">✍️ Latest from the Blog</h2>
-
-> Research notes and paper reviews from [sumin.im/blog](https://www.sumin.im/blog), updated daily.
-
-<!-- BLOG-POST-LIST:START -->
-- [학습 없는 느슨한 추측 디코딩&lpar;Training-Free Loosely Speculative Decoding&rpar;: 정확 일치를 넘어 의미가 맞는 draft 받아들이기](https://www.sumin.im/blog/Training-Free-Loosely-Speculative-Decoding-3c5e642ede9780b482fbcc7e3b422c5e)
-- [석사 2년, 어떻게 살아갈 것인가](https://www.sumin.im/blog/석사-2년-어떻게-살아갈-것인가-3c7e642ede9780fab768f570a2e53418)
-- [CriticalKV: 출력 섭동 관점에서 KV 캐시 축출을 최적화하기](https://www.sumin.im/blog/criticalkv-출력-섭동-관점에서-kv-캐시-축출을-최적화하기-3c6e642ede9780db8560d81407c1091d)
-- [LU-KV — KV 캐시에서 “지금 중요한 토큰”이 아니라 “앞으로 쓸모 있을 토큰”을 남겨라](https://www.sumin.im/blog/lu-kv-kv-캐시에서-지금-중요한-토큰이-아니라-앞으로-쓸모-있을-토큰을-남겨라-3c6e642ede9780ce93c2d0683ad015e1)
-- [Meta-Harness — 모델을 그대로 두고 harness를 탐색한다](https://www.sumin.im/blog/meta-harness-모델을-그대로-두고-harness를-탐색한다-3bbe642ede9780d29b6fd34b0a38db98)
-<!-- BLOG-POST-LIST:END -->
-
 <h2 align="left" id="sumin-oss">🤝 Open Source</h2>
 
 - 🤗 &nbsp;**Hugging Face Transformers**: Korean docs for [DeepSeek-V3](https://github.com/huggingface/transformers/pull/39649), [BigBird](https://github.com/huggingface/transformers/pull/40445), [X-CLIP](https://github.com/huggingface/transformers/pull/39594), and [LFM2](https://github.com/huggingface/transformers/pull/41502) (merged)
